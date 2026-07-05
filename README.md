@@ -13,8 +13,8 @@ Name    : Muhammad Abdul Rehman
 Handle  : Abdul-Rehman-27
 Uni     : COMSATS University Islamabad, Attock Campus
 Focus   : Machine Learning • Full-Stack Web Development
-Status  : ██████████░ Learning every day
-Collab  : OPEN — reach out anytime ✅
+Status  : Learning every day
+Collab  : OPEN — reach out anytime 
 ```
 
 <br/>
