@@ -2,10 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Muhammad;Abdul+Rehman" alt="Typing SVG" />
 
-<p>Software Engineer &nbsp;|&nbsp; Web Developer &nbsp;|&nbsp; Machine Learning Enthusiast</p>
-
-<img src="https://img.shields.io/github/followers/Abdul-Rehman-27?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/Abdul-Rehman-27?label=Stars&style=social" />
+<p>Software Engineering &nbsp;|&nbsp; Web Developement &nbsp;|&nbsp; Machine Learning</p>
 
 </div>
 
@@ -17,15 +14,6 @@
 - 🏆 Ranked **1st in my batch** with a CGPA of **3.91** so far
 - 💻 Awardee of the **Prime Minister's Laptop Program**
 - 🚀 Always building, always learning
-
-<br/>
-
-## 🎯 Focus Areas
-
-| 🌐 Frontend & Web | 🤖 Machine Learning |
-|---|---|
-| React.js · Tailwind CSS | Html CSS & JavaScript |
-| NumPy · Pandas · Matplotlib · scikit-learn |
 
 <br/>
 
@@ -77,7 +65,7 @@
 
 <br/>
 
-> *"Stay consistent, work hard, and believe in yourself — effort always bears fruit, as long as you keep refining it."*
+> *"Stay consistent, work hard, and believe in yourself — effort always bears fruit."*
 
 <br/>
 
