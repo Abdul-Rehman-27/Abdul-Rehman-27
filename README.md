@@ -60,7 +60,7 @@ Collab  : OPEN — reach out anytime ✅
 ### `> connect`
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/m-abdul-rehman-288690364" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
