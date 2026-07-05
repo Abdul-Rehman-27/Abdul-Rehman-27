@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Muhammad+Abdul+Rehman;Software+Engineer+%7C+Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Muhammad;Abdul+Rehman" alt="Typing SVG" />
 
-<br/>
+<p>Software Engineer &nbsp;|&nbsp; Web Developer &nbsp;|&nbsp; Machine Learning Enthusiast</p>
 
 <img src="https://img.shields.io/github/followers/Abdul-Rehman-27?label=Followers&style=social" />
 <img src="https://img.shields.io/github/stars/Abdul-Rehman-27?label=Stars&style=social" />
@@ -11,30 +11,25 @@
 
 <br/>
 
-![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20about.me&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+## 📖 About Me
 
-```
-visitor@github:~$ cat ./about_me.txt
-
-Currently pursuing a BS in Software Engineering at COMSATS University
-Islamabad, Attock Campus — ranked 1st in my batch with a CGPA of 3.91.
-
-Awardee of the Prime Minister's Laptop Program.
-
-I believe steady, honest effort beats shortcuts — show up, do the work,
-and let the results speak. Always building, always learning.
-```
+- 🎓 Studying **Software Engineering** at COMSATS University Islamabad, Attock Campus
+- 🏆 Ranked **1st in my batch** with a CGPA of **3.91** so far
+- 💻 Awardee of the **Prime Minister's Laptop Program**
+- 🚀 Always building, always learning
 
 <br/>
 
-![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20focus.areas&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+## 🎯 Focus Areas
 
-- 🎯 Front-End Web Development
-- 🎯 Machine Learning
+| 🌐 Frontend & Web | 🤖 Machine Learning |
+|---|---|
+| React.js · Tailwind CSS | Html CSS & JavaScript |
+| NumPy · Pandas · Matplotlib · scikit-learn |
 
 <br/>
 
-![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20tech.stack&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+## 🛠️ Tech Stack
 
 **Front-End Web**
 
@@ -86,7 +81,7 @@ and let the results speak. Always building, always learning.
 
 <br/>
 
-![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20connect&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
