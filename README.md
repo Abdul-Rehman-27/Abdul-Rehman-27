@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Muhammad;Abdul+Rehman" alt="Typing SVG" />
 
-<p>Software Engineering &nbsp;|&nbsp; Web Developement &nbsp;|&nbsp; Machine Learning</p>
+<p>Software Engineering &nbsp;|&nbsp; Web Development &nbsp;|&nbsp; Machine Learning</p>
 
 </div>
 
@@ -10,10 +10,9 @@
 
 ## 📖 About Me
 
-- 🎓 Studying **Software Engineering** at COMSATS University Islamabad, Attock Campus
-- 🏆 Ranked **1st in my batch** with a CGPA of **3.91** so far
+- 🏫 Completed my **FSC** from Punjab Group of Colleges
+- 🎓 Currently pursuing **Software Engineering** at COMSATS University Islamabad, Attock Campus — now in my **7th semester**
 - 💻 Awardee of the **Prime Minister's Laptop Program**
-- 🚀 Always building, always learning
 
 <br/>
 
