@@ -11,7 +11,7 @@
 
 <br/>
 
-### `> about.me`
+![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20about.me&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 ```
 visitor@github:~$ cat ./about_me.txt
@@ -27,14 +27,14 @@ and let the results speak. Always building, always learning.
 
 <br/>
 
-### `> focus.areas`
+![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20focus.areas&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 - 🎯 Front-End Web Development
 - 🎯 Machine Learning
 
 <br/>
 
-### `> tech.stack`
+![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20tech.stack&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 **Front-End Web**
 
@@ -82,33 +82,20 @@ and let the results speak. Always building, always learning.
 
 <br/>
 
-### `> github.stats`
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-27&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-27&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman-27&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
 > *"Stay consistent, work hard, and believe in yourself — effort always bears fruit, as long as you keep refining it."*
 
 <br/>
 
-### `> connect`
+![section](https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=55&section=header&text=%3E%20connect&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rehmank303014@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Abdul-Rehman-27" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
